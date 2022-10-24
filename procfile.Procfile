@@ -1,0 +1,1 @@
+web: gunicorn acuarela.wsgi --log-file -
